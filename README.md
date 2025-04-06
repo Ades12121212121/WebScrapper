@@ -39,19 +39,19 @@ A powerful and comprehensive web security scanner. WebScannerX provides advanced
 
 ```bash
 # Scan a target
-WebScannerX.exe scan <target>
+scan <target>
 
 # Configure settings
-WebScannerX.exe config <option> <value>
+config <option> <value>
 
 # Stealth mode
-WebScannerX.exe mode stealth
+mode stealth
 
 # Set timeout
-WebScannerX.exe timeout 30
+timeout 30
 
 # View help
-WebScannerX.exe help
+help
 ```
 
 ### Configuration Options
